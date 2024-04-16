@@ -1,32 +1,44 @@
 {
-  "produtos": [
-    {
-      "id": 1,
-      "produto": "Jogo 1",
-      "descricao": "Descrição do jogo 1",
-      "foto": "jogo1.PNG",
-      "preco": 300
-    },
-    {
-      "id": 2,
-      "produto": "Jogo 2",
-      "descricao": "Descrição do jogo 2",
-      "foto": "jogo2.PNG",
-      "preco": 200
-    },
-    {
-      "id": 3,
-      "produto": "Jogo 3",
-      "descricao": "Descrição do jogo 3",
-      "foto": "jogo3.PNG",
-      "preco": 400
-    },
-    {
-      "id": 4,
-      "produto": "Jogo Modificado",
-      "descricao": "Descrição do Jogo Modificado",
-      "foto": "jogo1.PNG",
-      "preco": 200
-    }
-  ]
+"produtos": [
+{
+"id":"1",
+"nome":"God of War",
+"foto":".\\capa1.jpg",
+"descricao":"aventura",	
+"preco":"150"
+}
+,
+{
+"id":"2",
+"nome":"Mortal Kombat",	
+"foto":".\\capa2.jpg",	
+"descricao":"luta",		
+"preco":"120"
+}
+,
+{
+"id":"3",
+"nome":"Street Figther",
+"foto":".\\capa3.jpg",
+"descricao":"luta",		
+"preco":"100"
+}
+,
+{
+"id":"4",
+"nome":"The King of Fighter",	
+"foto":".\\capa4.jpg",
+"descricao":"luta",		
+"preco":"119"
+}
+,
+{
+"id":"5",
+"nome":"Super Mario",
+"foto":".\\capa5.jpg",		
+"descricao":"aventura",
+"preco":"119"
+}
+]
+
 }
